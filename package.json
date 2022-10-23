@@ -1,0 +1,22 @@
+{
+  "name": "catdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olex7iMatix/CatDB.git"
+  },
+  "keywords": [
+    "CatDB"
+  ],
+  "author": ["Olex7", "Antonq"],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Olex7iMatix/CatDB/issues"
+  },
+  "homepage": "https://github.com/Olex7iMatix/CatDB#readme"
+}
